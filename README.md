@@ -8,3 +8,5 @@ This repository contains the starter code for many different projects. They are 
 * `prepare` - Starter projects for each of the preparation Learning Activities.
 * `prove` - Starter projects for each of the prove Developer projects.
 * `foundation` - Starter projects for foundation projects.
+
+//this is a commnet made by Kevin Mayer. lolololol
